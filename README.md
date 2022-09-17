@@ -1,2 +1,2 @@
 # MyFirstAppMobile
-My First App Mobile (ICM Calculator)
+It was my early app mobile (a IMC Calculator)
